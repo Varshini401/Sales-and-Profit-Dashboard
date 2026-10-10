@@ -61,7 +61,7 @@ Allows users to explore the dashboard using filters for:
 
 ## 📸 Dashboard Preview
 
-![Sales and Profit Analysis Dashboard](<Sales and Profit Dashboard.png>)
+![Sales and Profit Analysis Dashboard](Sales%20and%20Profit%20Dashboard.png)
 
 ## 📁 Project Files
 
